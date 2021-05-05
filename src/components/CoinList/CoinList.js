@@ -1,4 +1,3 @@
-import React from 'react';
 import Coin from '../Coin/Coin';
 import styled from 'styled-components';
 
